@@ -1,0 +1,2 @@
+##Mango2Ghost
+This project aims to use an existing (and running) [Mango Blog](http://www.mangoblog.org/) installation, and export the posts so that they can be used in the [Ghost](http://ghost.io/) blogging platform
